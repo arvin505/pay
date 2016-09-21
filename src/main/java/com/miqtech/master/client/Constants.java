@@ -8,7 +8,7 @@ public class Constants {
 
     public static final String APP_KEY = "*******";
 
-    public static String HOST = "http://api.wangyuhudong.com/";
+    public static String HOST = "********";
 
     // 商户PID
     public static final String PARTNER = "*****";
